@@ -26,12 +26,12 @@ Our goal is to make file sharing accessible, fast and free for everyone.
 
 ## Features
 
-- 📁 **Easy file sharing** — Upload and share files through a simple interface.
-- 📱 **QR Code sharing** — Scan a QR code to join a transfer.
-- 🔢 **Unique transfer codes** — Join transfers using a six-character code.
-- 🌐 **Multi-device support** — Access FileDrop from different devices using a web browser.
-- 🔓 **No account required** — Start sharing without registration.
-- 🆓 **Free and open source** — Available for everyone.
+-  **Easy file sharing** — Upload and share files through a simple interface.
+- **QR Code sharing** — Scan a QR code to join a transfer.
+- **Unique transfer codes** — Join transfers using a six-character code.
+- **Multi-device support** — Access FileDrop from different devices using a web browser.
+- **No account required** — Start sharing without registration.
+- **Free and open source** — Available for everyone.
 
 ## Preview
 
@@ -47,7 +47,7 @@ The FileDrop interface features a minimalist dark design with a modern blue and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FileDrop.git
+git clone https://github.com/kotenok2013/filedrop.git
 cd FileDrop
 ```
 
@@ -146,7 +146,7 @@ See the `LICENSE` file for more information.
   <br>
   Share files. Instantly. Anywhere.
   <br><br>
-  Made with ❤️ for everyone.
+  Made with ❤️ for everyone (tysm for chatgpt who write the README👍).
 </p>
 
 https://github.com/user-attachments/assets/6c0b7f2c-3b19-4f8a-8a23-019aaeb0f8d2
